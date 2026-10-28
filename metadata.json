@@ -1,0 +1,6 @@
+{
+  "name": "EcoBadge",
+  "description": "Smart Reusable College Event Badge System — Reuse More, Waste Less, Make Every Event Count.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
